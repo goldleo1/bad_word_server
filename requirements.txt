@@ -1,0 +1,8 @@
+Django
+django-cors-headers
+django-ipware
+pandas
+psutil
+py-cpuinfo
+torch
+transformers
